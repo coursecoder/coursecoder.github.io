@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/docs/",
-  title: "CourseCoder",
-  description: "Documentation",
+  title: "Leaderboard",
+  base: "/leaderboard/",
+  description: "Leaderboard API Reference Documentation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

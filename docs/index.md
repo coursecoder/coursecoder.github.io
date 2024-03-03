@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "CourseCoder Documentation"
-  text: "Documentation Engineer Projects"
+  name: "Leaderboard"
+  text: "Leaderboard API Reference Documentation"
   tagline: My great project tagline
   actions:
     - theme: brand
