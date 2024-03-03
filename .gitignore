@@ -1,0 +1,4 @@
+# ignore VitePress stores its dev server cache 
+.vitepress/cache
+# ignore the production build output
+.vitepress/dist
