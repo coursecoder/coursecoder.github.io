@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CourseCoder Documentation",
-  description: "Documentation Engineer Projects",
+  title: "CourseCoder",
+  description: "Documentation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
