@@ -5,17 +5,17 @@ const cards = [
   {
     icon: Zap,
     title: 'HIGH GROWTH SAAS STRATEGY',
-    description: 'Maintaining high-fidelity technical accuracy within high-velocity SaaS release cycles',
+    description: 'Keeping technical curriculum accurate and current inside fast-moving SaaS release cycles.',
   },
   {
     icon: Code2,
     title: 'CONTENT-AS-CODE AUTOMATION',
-    description: 'Architecting automation pipelines using Python and Bash to streamline the curriculum deployment lifecycle',
+    description: 'Using Python and Bash to automate the curriculum pipeline — from content creation to deployment.',
   },
   {
     icon: Users,
     title: 'MULTI-PERSONA LEARNING',
-    description: 'Designing learning paths for Developers, SREs, and internal Customer Experience teams',
+    description: 'Building learning paths for Developers, SREs, and Customer Experience teams — same content, different lenses.',
   },
 ]
 
