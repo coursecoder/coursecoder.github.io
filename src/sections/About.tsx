@@ -100,12 +100,8 @@ export default function About() {
               <span className="text-rose"> Built to Scale.</span>
             </h2>
 
-            <p className="text-slate-600 leading-relaxed mb-6">
-              I sit at the intersection of Computer Science and Instructional Design, architecting scalable, data-driven learning systems for the modern enterprise. By synthesizing a technical CS foundation with a Master's in Education, I bridge the gap between complex system architectures and high-impact pedagogy.
-            </p>
-
             <p className="text-slate-500 leading-relaxed mb-8">
-              Currently, I empower Software Developers, DevOps Engineers, and SREs to master infrastructure and synthetic monitoring strategies. I thrive in rapid-change environments, ensuring that technical curriculum stays ahead of the product evolution curve.
+              I've spent my career at the crossroads of two disciplines most people treat as separate — software engineering and instructional design. At Cisco, I build the learning systems that help engineers master observability, infrastructure, and AI-integrated tooling. The best technical training doesn't just explain a product. It changes how engineers think.
             </p>
 
             {/* Feature cards */}
