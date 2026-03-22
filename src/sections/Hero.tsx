@@ -18,7 +18,7 @@ export default function Hero() {
 
         {/* Title */}
         <div className="font-mono text-sm sm:text-base md:text-lg text-rose tracking-widest mb-2">
-          STAFF TECHNICAL CONTENT ARCHITECT
+          TECHNICAL LEARNING SYSTEMS ARCHITECT
         </div>
 
         {/* Certifications */}
