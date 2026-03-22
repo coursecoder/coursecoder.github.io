@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist -r https://github.com/coursecoder/coursecoder.github.io.git"
+    "deploy": "npm run build && gh-pages -d dist -r git@github.com:coursecoder/coursecoder.github.io.git"
   },
   "dependencies": {
     "gsap": "^3.12.5",
