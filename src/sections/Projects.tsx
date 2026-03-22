@@ -32,6 +32,7 @@ const projects: Project[] = [
     longDescription:
       'Built a modular content-as-code pipeline where a single base module is adapted by Claude into developer, executive, trainer, and technical-writer variants. Includes YAML-tracked provenance manifest, Moodle LMS integration via Docker, and SHA-hashed prompt versioning for full audit trails — translating pedagogical goals directly into production learning infrastructure.',
     github: 'https://github.com/coursecoder/mtat',
+    live: 'http://18.190.241.69:8080/course/view.php?id=2',
     tags: ['Python', 'Claude API', 'Anthropic SDK', 'Docker', 'Moodle', 'Adaptive Learning', 'Content-as-Code'],
     panel: {
       type: 'terminal',
