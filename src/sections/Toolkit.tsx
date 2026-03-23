@@ -4,19 +4,19 @@ const toolkit = [
   {
     icon: Code2,
     title: 'ENGINEERING',
-    items: ['Bash/Zsh', 'Python', 'Boto3 (AWS SDK)', 'Docker', 'CI/CD', 'GitHub/GitLab', 'REST APIs'],
+    items: ['Bash/Zsh', 'Python', 'Boto3 (AWS SDK)', 'Docker', 'CI/CD', 'GitHub/GitLab', 'AWS Lambda', 'REST APIs'],
     color: 'text-blue-600',
   },
   {
     icon: Cloud,
-    title: 'AWS SERVICES',
-    items: ['S3', 'Lambda', 'DynamoDB', 'API Gateway', 'IAM', 'VPC', 'CloudFormation'],
+    title: 'DATA & CLOUD',
+    items: ['S3',  'DynamoDB', 'API Gateway', 'IAM', 'VPC', 'SQL', 'CloudFormation'],
     color: 'text-rose',
   },
   {
     icon: BookOpen,
     title: 'LEARNING SYSTEMS & LMS',
-    items: ['Moodle LMS', 'xAPI / SCORM', 'Adaptive Learning', 'Xyleme (LCMS)', 'Rise/Storyline', 'Camtasia/Snagit', 'HTML/CSS', 'DITA', 'Markdown'],
+    items: ['Moodle API', 'xAPI / SCORM', 'Learning Analytics', 'Xyleme (LCMS)', 'Rise/Storyline', 'DITA', 'Markdown'],
     color: 'text-amber-600',
   },
 ]
