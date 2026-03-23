@@ -29,7 +29,7 @@ const experiences = [
       'Applied rigorous instructional design theories to develop multi-modal learning assets—including interactive video and hands-on practical scenarios—optimized for real-world technical application',
       'Led statewide product go-lives and technical workshops, driving adoption for large-scale IT infrastructure launches through targeted webinars and on-site stakeholder engagement',
     ],
-    technologies: ['Oracle OBIEE', 'ArcGIS Data Visualization', 'Oracle Databases / SQL'],
+    technologies: ['Oracle OBIEE', 'ArcGIS Data Visualization', 'SQL'],
   },
 ]
 

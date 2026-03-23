@@ -15,8 +15,8 @@ const toolkit = [
   },
   {
     icon: BookOpen,
-    title: 'INSTRUCTIONAL AUTHORING',
-    items: ['Xyleme Create (LCMS)', 'Rise/Storyline', 'Camtasia/Snagit', 'HTML/CSS', 'DITA', 'Markdown'],
+    title: 'LEARNING SYSTEMS & LMS',
+    items: ['Moodle LMS', 'xAPI / SCORM', 'Competency Frameworks', 'Adaptive Learning', 'Xyleme Create (LCMS)', 'Rise/Storyline', 'Camtasia/Snagit', 'HTML/CSS', 'DITA', 'Markdown'],
     color: 'text-amber-600',
   },
 ]
