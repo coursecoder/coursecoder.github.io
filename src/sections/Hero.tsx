@@ -48,7 +48,7 @@ export default function Hero() {
           <div className="flex flex-wrap items-center justify-between gap-4 text-xs font-mono">
             <div className="flex items-center gap-2 text-slate-500">
               <MapPin className="w-3 h-3" />
-              <span>ATLANTA, GA</span>
+              <span>OPEN TO RELOCATION</span>
             </div>
             <div className="flex items-center gap-2 text-slate-500">
               <GraduationCap className="w-3 h-3" />
