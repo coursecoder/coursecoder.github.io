@@ -28,9 +28,9 @@ const projects: Project[] = [
   {
     title: 'MTAT — AI-Adaptive Learning Content Engine',
     badge: 'FEATURED PROJECT',
-    description: 'CLI system that generates audience-specific curriculum variants using the Claude API',
+    description: 'AI-powered adaptive learning infrastructure: pedagogical goals to production LMS deployment',
     longDescription:
-      'Built a modular content-as-code pipeline where a single base module is adapted by Claude into developer, executive, trainer, and technical-writer variants. Includes YAML-tracked provenance manifest, Moodle LMS integration via Docker, and SHA-hashed prompt versioning for full audit trails — translating pedagogical goals directly into production learning infrastructure.',
+      'A production learning infrastructure system that translates pedagogical goals into AI-generated, audience-adaptive content at scale. A single base module is processed by the Claude API to produce developer, executive, trainer, and technical-writer variants — implementing a learner model that adapts content to audience context. Includes full LMS integration via Moodle/Docker deployment, YAML-tracked provenance manifest for audit trails, and SHA-hashed prompt versioning — bridging instructional design objectives directly to production infrastructure.',
     github: 'https://github.com/coursecoder/mtat',
     live: 'http://18.190.241.69:8080/course/view.php?id=2',
     tags: ['Python', 'Claude API', 'Anthropic SDK', 'Docker', 'Moodle', 'Adaptive Learning', 'Content-as-Code'],

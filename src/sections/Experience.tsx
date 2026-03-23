@@ -10,12 +10,12 @@ const experiences = [
     achievements: [
       'Served as a lead Subject Matter Expert (SME) for the Splunk Observability Cloud certification exam, architecting high-stakes assessment items to validate technical proficiency for global partners and customers',
       'Architected high-fidelity, scenario-based lab environments by developing custom automation scripts for data generators and Java-based applications, enabling SREs and DevOps engineers to master complex observability workflows',
-      "Engineered a centralized 'Content Library' utilizing Markdown, GitLab, and JIRA automation, streamlining the development lifecycle and establishing a single source of truth for modular curriculum components",
-      'Delivered high-impact technical training to global audiences at Splunk .conf (annual user conference), driving product adoption and community engagement through live, hands-on instruction',
-      'Post-Cisco acquisition, expanded scope to design training frameworks for global Customer Success, Sales Enablement, and Technical Delivery teams supporting AI-integrated services',
-      'Earned accelerated promotion from Senior to Staff level within 3 years, recognized for technical impact and curriculum leadership',
+      "Engineered a content-as-code infrastructure using Markdown, GitLab, and JIRA automation — functioning as a centralized learner data repository and single source of truth for modular curriculum components",
+      'Delivered high-impact technical training to global audiences at Splunk .conf (annual user conference), driving product adoption through live, hands-on instruction with measurable learner outcome tracking',
+      'Post-acquisition, designed adaptive training infrastructure for global Customer Success, Sales Enablement, and Technical Delivery teams — including progress-tracking systems and outcome analytics to measure skill development across multi-persona learner populations supporting AI-integrated services',
+      'Earned accelerated promotion from Senior to Staff level within 3 years, recognized for technical impact and learning systems leadership',
     ],
-    technologies: ['Python', 'AWS', 'Splunk O11y SME', 'Content-as-Code'],
+    technologies: ['Python', 'Learning Analytics', 'Competency Frameworks', 'Docker', 'AWS', 'GitLab CI/CD', 'Adaptive Learning', 'Content-as-Code'],
   },
   {
     title: 'IT Instructional Designer/Trainer',
