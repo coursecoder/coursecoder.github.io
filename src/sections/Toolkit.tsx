@@ -16,7 +16,7 @@ const toolkit = [
   {
     icon: BookOpen,
     title: 'LEARNING SYSTEMS & LMS',
-    items: ['Moodle LMS', 'xAPI / SCORM', 'Competency Frameworks', 'Adaptive Learning', 'Xyleme Create (LCMS)', 'Rise/Storyline', 'Camtasia/Snagit', 'HTML/CSS', 'DITA', 'Markdown'],
+    items: ['Moodle LMS', 'xAPI / SCORM', 'Adaptive Learning', 'Xyleme (LCMS)', 'Rise/Storyline', 'Camtasia/Snagit', 'HTML/CSS', 'DITA', 'Markdown'],
     color: 'text-amber-600',
   },
 ]
